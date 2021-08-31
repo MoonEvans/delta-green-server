@@ -134,9 +134,9 @@
     {#if loggedIn}
       {#if showTypedHeader}
       <Typewriter interval={47} on:done={() => {loading = true; showTypedHeader = false;}}>
-        <h1 class="text-3xl mb-5"> Welcome <span class="text-delta-green times24">{$user}</span> to the
+        <h1 class="text-3xl mb-5"> Chào mừng <span class="text-delta-green times24">{$user}</span> đến với
           <span class="text-5xl text-delta-green cursor-pointer">Δ</span>
-          Secure Server
+          Trấn Vũ Hội
         </h1>
       </Typewriter>
       {:else}
