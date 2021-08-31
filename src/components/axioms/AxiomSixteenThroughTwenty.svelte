@@ -6,43 +6,43 @@
   <br />
   <ol>
     <li>
-      <span>16. <span class="text-delta-green">Don't wait until you see the whites of their eyes.</span></span>
+      <span>16. <span class="text-delta-green">Đừng đợi cho đến khi mắt chúng chuyển sang lòng trắng.</span></span>
       <br />
-      <span class="pl-6">  If firearms have <span class="text-delta-green">no effect</span>, it's best to find that out </span>
+      <span class="pl-6">  Nếu súng và dao <span class="text-delta-green">vô tác dụng</span>, tốt nhất là nên nhận ra điều đó </span>
       <br />
-      <span class="pl-6">  while you still have the time and the space to break contact. </span>
+      <span class="pl-6">  Khi ngươi vẫn còn thời gian để rút lui. </span>
     </li>
     <br />
     <li>
-      <span>17. <span class="text-delta-green">Give no "fair warnings."</span></span>
+      <span>17. <span class="text-delta-green">Đừng có "cảnh báo trước."</span></span>
       <br />
-      <span class="pl-6">  <span class="text-delta-green">Surprise</span> is the only advantage you have. </span>
+      <span class="pl-6">  <span class="text-delta-green">Bất ngờ</span> là lợi thế duy nhất của ngươi. </span>
       <br />
-      <span class="pl-6">  Taking live prisoners usually carries more operational hazards than benefits. </span>
+      <span class="pl-6">  Bắt giữ người sống thường hại nhiều hơn lợi. </span>
     </li>
     <br />
     <li>
-      <span>18. <span class="text-delta-green">If you do take prisoners, never leave them together to cook up a story between them</span></span>
+      <span>18. <span class="text-delta-green">Nếu bắt giữ tù nhân, đừng bao giờ để chúng gần nhau, đề phòng chúng lên kế hoạch</span></span>
       <br />
-      <span class="pl-6">  Unless, of course, you've <span class="text-delta-green">bugged</span> their cell. </span>
+      <span class="pl-6">  Trừ phi, tất nhiên là, ngươi đã <span class="text-delta-green">lắp máy theo dõi</span> phòng giam. </span>
     </li>
     <br />
     <li>
-      <span>19. <span class="text-delta-green">Torture rarely works on our brand of opposition.</span></span>
+      <span>19. <span class="text-delta-green">Tra tấn thường vô dụng với thứ chúng ta đối mặt.</span></span>
       <br />
-      <span class="pl-6">  Be prepared to find another way in. </span>
+      <span class="pl-6">  Chuẩn bị phương pháp khác. </span>
       <br />
-      <span class="pl-6">  Look for the opposition's laptops, notepads, cell phones, documents, and journals. </span>
+      <span class="pl-6">  Lùng sục laptop, điện thoại, giấy tờ và sổ sách của chúng. </span>
       <br />
-      <span class="pl-6">  Passwords and encryption are often <span class="text-delta-green">broken</span> more easily and more reliably than men.</span>
+      <span class="pl-6">  Đập vỡ bảo mật và tường lửa thường <span class="text-delta-green">dễ dàng</span> hơn là người sống.</span>
     </li>
     <br />
     <li>
-      <span>20. <span class="text-delta-green">Assume nothing.</span></span>
+      <span>20. <span class="text-delta-green">Đừng suy đoán.</span></span>
       <br />
-      <span class="pl-6">  <span class="text-delta-green">Don't believe</span> what you are told. </span>
+      <span class="pl-6">  <span class="text-delta-green">Đừng tin tưởng</span> những gì nghe được. </span>
       <br />
-      <span class="pl-6">  Double-check it yourself. </span>
+      <span class="pl-6">  Tự mình kiểm chứng. </span>
     </li>
   </ol>
 </Typewriter>
