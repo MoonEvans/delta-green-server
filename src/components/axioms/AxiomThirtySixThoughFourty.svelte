@@ -6,45 +6,45 @@
   <br />
   <ol>
     <li>
-      <span>36. <span class="text-delta-green">Use your pre-paid burner cell phone.</span></span>
+      <span>36. <span class="text-delta-green">Dùng điện thoại và sim rác loại 1 lần.</span></span>
       <br />
-      <span class="pl-6">  Turn it off and take out the batteries when it's not in use. </span>
+      <span class="pl-6">  Tắt máy và tháo pin ra khi không dùng. </span>
       <br />
-      <span class="pl-6">  <span class="text-delta-green">Throw it away after the Opera.</span> </span>
+      <span class="pl-6">  <span class="text-delta-green">Ném nó đi sau khi xong Dạ Hành.</span> </span>
       <br />
-      <span class="pl-6">  Other than that, stick to randomly selected public landlines when contacting A-Cell. </span>
+      <span class="pl-6">  Ngoại trừ trường hợp trên, dùng máy bàn ngẫu nhiên hoặc bốt điện thoại để gọi Trưởng Lão Hội. </span>
       <br />
-      <span class="pl-6">  You shouldn't be calling anyone else during an Opera. </span>
+      <span class="pl-6">  Ngươi vốn không nên gọi bất cứ ai khác khi đang Dạ Hành. </span>
     </li>
     <br />
     <li>
-      <span>37. <span class="text-delta-green">Cell phones are tracked by employers and family alike.</span></span>
+      <span>37. <span class="text-delta-green">Điện thoại có thể bị theo dõi bởi cả người thân và người lạ.</span></span>
       <br />
-      <span class="pl-6">   Make sure your personal cell phone is wherever your cover story says <span class="text-delta-green">you are supposed to be</span>. </span>
+      <span class="pl-6">   Nhớ để lại điện thoại cá nhân của ngươi ở nơi mà ngươi nói dối rằng <span class="text-delta-green">ngươi đang ở đó</span>. </span>
     </li>
     <br />
     <li>
-      <span>38. <span class="text-delta-green">You're safer if you never get out of range of encrypted radio with your teammates.</span></span>
+      <span>38. <span class="text-delta-green">Sẽ an toàn hơn nếu như không bao giờ rời tầm bộ đàm của đồng đội.</span></span>
       <br />
-      <span class="pl-6">  You're <span class="text-delta-green">safest</span> if you never get out of each others' sight. </span>
+      <span class="pl-6">  Nhưng <span class="text-delta-green">an toàn nhất</span> nếu như không rời tầm nhìn của nhau. </span>
     </li>
     <br />
     <li>
-      <span>39. <span class="text-delta-green">Use old cars.</span></span>
+      <span>39. <span class="text-delta-green">Dùng xe cũ.</span></span>
       <br />
-      <span class="pl-6">  No Lojack, <span class="text-delta-green">no airbags</span>, no automatic locks. </span>
+      <span class="pl-6">  Không khóa tự động, <span class="text-delta-green">không túi khí</span>, không GPS. </span>
       <br />
-      <span class="pl-6">  Manual everything, if you can get it. </span>
+      <span class="pl-6">  Thủ công hết sức có thể. </span>
     </li>
     <br />
     <li>
-      <span>40. <span class="text-delta-green">Never bring anything to the Opera if you can't drop it and walk away. </span></span>
+      <span>40. <span class="text-delta-green">Đừng mang thứ gì đi Dạ Hành mà ngươi không thể ném đi và rút lui nhanh chóng. </span></span>
       <br />
-      <span class="pl-6">  Never bring anything you didn't buy with cash. </span>
+      <span class="pl-6">  Không bao giờ mang thứ gì mà ngươi không mua bằng tiền mặt. </span>
       <br />
-      <span class="pl-6">  Never, ever bring anything your home agency issued to you. </span>
+      <span class="pl-6">  Không bao giờ dùng thứ mà thân phận của ngươi mang lại. </span>
       <br />
-      <span class="pl-6">  <span class="text-delta-green">Ever</span>. </span>
+      <span class="pl-6">  <span class="text-delta-green">Không bao giờ</span>. </span>
     </li>
   </ol>
 </Typewriter>
