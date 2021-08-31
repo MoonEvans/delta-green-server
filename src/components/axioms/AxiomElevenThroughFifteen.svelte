@@ -6,47 +6,47 @@
   <br />
   <ol>
     <li>
-      <span>11. <span class="text-delta-green">Never do anything alone.</span></span>
+      <span>11. <span class="text-delta-green">Không bao giờ hành động đơn lẻ.</span></span>
       <br />
-      <span class="pl-6">  Always have someone watch your back. </span>
+      <span class="pl-6">  Luôn luôn có đặc sứ khác sau lưng. </span>
       <br />
-      <span class="pl-6">  When you are sleeping, pissing, eating, <span class="text-delta-green">searching</span> a location, interviewing a witness, </span>
+      <span class="pl-6">  Cả khi người ngủ, vệ sinh, ăn, <span class="text-delta-green">tìm kiếm</span> một địa điểm, phỏng vấn nhân chứng, </span>
       <br />
-      <span class="pl-6">  or when your nose is buried in research, have someone watching your six. </span>
+      <span class="pl-6">  hay khi ngươi nghiên cứu, điều tra, luôn tìm đặc sứ khác để mắt cho.</span>
     </li>
     <br />
     <li>
-      <span>12. <span class="text-delta-green">Always establish a rally point in case the team has to scatter and regroup.</span></span>
+      <span>12. <span class="text-delta-green">Luôn luôn chuẩn bị trước điểm tái họp mặt phòng khi bị chia rẽ.</span></span>
       <br />
-      <span class="pl-6">  The rally point should be tactically advantageous in the event that not </span>
+      <span class="pl-6">  Nơi đó phải có lợi thế để đề phòng khi trường hợp bất lợi ví như </span>
       <br />
-      <span class="pl-6">  everyone manages to shake pursuers and the opportunity arises to ambush them.</span>
+      <span class="pl-6">  tất cả mọi người không thể cắt đuôi kẻ truy đuổi và còn cơ hội bị phục kích.</span>
       <br />
-      <span class="pl-6">  The rally point should be pre-stocked with anything <span class="text-delta-green">you need to escape</span> </span>
+      <span class="pl-6">  Nơi đó phải để sẵn mọi thứ mà <span class="text-delta-green">ngươi cần để rút lui</span> </span>
       <br />
-      <span class="pl-6">  the opposition: money, travel documents, a spare vehicle if you can manage it.</span>
+      <span class="pl-6">  khỏi kẻ thù: tiền, giấy tờ đi lại, phương tiện giao thông nếu có thể.</span>
     </li>
     <br />
     <li>
-      <span>13. <span class="text-delta-green">If you're attacked, break contact.</span></span>
+      <span>13. <span class="text-delta-green">Nếu bị tấn công, hãy cắt liên lạc.</span></span>
       <br />
-      <span class="pl-6">  Do not stand and fight when the opposition has the initiative. </span>
+      <span class="pl-6">  Không được chiến đấu khi kẻ địch trên cơ. </span>
       <br />
-      <span class="pl-6">  Retreat, regroup at the rally point, go back later and <span class="text-delta-green">kill them in their sleep</span>. </span>
+      <span class="pl-6">  Rút lui, tụ họp tại nơi định trước, và quay lại <span class="text-delta-green">giết chúng khi đang ngủ</span>. </span>
     </li>
     <br />
     <li>
-      <span>14. <span class="text-delta-green">Any operation can be aborted.</span></span>
+      <span>14. <span class="text-delta-green">Bất cứ nhiệm vụ nào cũng có thể được hủy bỏ.</span></span>
       <br />
-      <span class="pl-6">  If it feels wrong, <span class="text-delta-green">it is wrong</span> </span>
+      <span class="pl-6">  Nếu có cảm giác không đúng, <span class="text-delta-green">chắc chắn có thứ gì đó không đúng</span> </span>
     </li>
     <br />
     <li>
-      <span>15. <span class="text-delta-green">Never take a chance if you don't have to.</span></span>
+      <span>15. <span class="text-delta-green">Đừng bao giờ đánh cược nếu như không cần phải vậy.</span></span>
       <br />
-      <span class="pl-6">  You are harder to <span class="text-delta-green">replace</span> than you think. </span>
+      <span class="pl-6">  Ngươi khó <span class="text-delta-green">thay thế</span> hơn ngươi nghĩ nhiều. </span>
       <br />
-      <span class="pl-6">  Your death, injury or disappearance will be difficult to explain. </span>
+      <span class="pl-6">  Cái chết, thương tật hay sự mất tích của ngươi sẽ rất khó giải thích. </span>
     </li>
   </ol>
 </Typewriter>
