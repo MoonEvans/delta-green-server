@@ -140,9 +140,9 @@
         </h1>
       </Typewriter>
       {:else}
-        <h1 class="text-3xl mb-5"> Welcome <span class="text-delta-green times32">{$user}</span> to the
+        <h1 class="text-3xl mb-5"> Chào mừng <span class="text-delta-green times32">{$user}</span> đến với
           <span class="text-5xl text-delta-green cursor-pointer" on:click={jumpToNavigation}>Δ</span>
-          Secure Server
+          Trấn Vũ Hội
         </h1>
       {/if}
 
@@ -173,7 +173,7 @@
 
       {#if axiomsOpen} <!-- Triggers when they first open the axioms attachment -->
         <Typewriter cascade on:done={() => {showAxioms = true}}>
-          <span class="text-delta-green text-lg"> ALPHONSE'S AXIOMS FOR AGENTS </span>
+          <span class="text-delta-green text-lg"> Trấn Vũ Chỉ Lệnh cho đặc sứ </span>
         </Typewriter>
 
         {#if showAxioms} <!-- Triggers after the title is displayed -->
@@ -193,7 +193,7 @@
 
     {:else} <!-- Not Logged in -->
       <Typewriter interval={47} on:done={() => showLogin = true}>
-        <h1 class="text-3xl">Welcome to the <span class="text-5xl text-delta-green">Δ</span> Secure Server v24.8</h1>
+        <h1 class="text-3xl">Chào mừng đến với <span class="text-5xl text-delta-green">Δ</span> Trấn Vũ Hội 2.08</h1>
       </Typewriter>
 
       {#if showLogin} <!-- Triggers once the welcome message is completed -->
