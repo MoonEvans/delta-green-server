@@ -8,47 +8,47 @@
     <li>
       <span>1.<span class="text-delta-green"> Chỉ lệnh số một là, không được để bị bắt.</span></span>
       <br />
-      <span class="pl-6">  You do not have a "get out of jail free" card. You do not have a license to kill. </span>
+      <span class="pl-6">  Ngươi không có "kim bài miễn tử". Ngươi không có quyền được giết người. </span>
       <br />
-      <span class="pl-6">  To the world outside Delta Green, <span class="text-delta-green">you are a criminal, a terrorist and a traitor.</span></span>
+      <span class="pl-6">  Đối với ngoại nhân ngoài Huyền Vũ Hội, <span class="text-delta-green">Ngươi là tội phạm, khủng bố và phản tặc.</span></span>
       <br />
-      <span class="pl-6">  If you are arrested, you will keep quiet, say nothing and take what's coming.</span>
+      <span class="pl-6">  Nếu bị bắt, giữ im lặng, không nói gì và nhận hết những gì xảy đến.</span>
       <br />
-      <span class="pl-6">  Getting you out of custody is not A-cell's problem, unless A-cell needs you for something.</span>
+      <span class="pl-6">  Cứu ngươi khỏi bắt giữ không phải là việc của trưởng lão hội, trừ phi họ cần ngươi.</span>
     </li>
     <br />
     <li>
-      <span>2. <span class="text-delta-green">Always have your go-bag packed and ready for a Night at the Opera.</span></span>
+      <span>2. <span class="text-delta-green">Luôn chuẩn bị sẵn hành trang, và chờ đợi Dạ Hành.</span></span>
       <br />
-      <span class="pl-6">  Your go-bag should include sanitized gear, <span class="text-delta-green">weapons</span>, cash, clothing </span>
+      <span class="pl-6">  Trang bị bao gồm những gì được cấp, <span class="text-delta-green">vũ khí</span>, tiền mặt, trang phục </span>
       <br />
-      <span class="pl-6"> and false identification that can be used and abandoned during a Night at the Opera </span>
+      <span class="pl-6"> và danh tính giấy tờ giả để dùng và vứt bỏ khi Dạ Hành </span>
     </li>
     <br />
     <li>
-      <span>3. <span class="text-delta-green">Stick to code names and cover names.</span></span>
+      <span>3. <span class="text-delta-green">Luôn dùng danh tính giả và danh hiệu.</span></span>
       <br />
-      <span class="pl-6">  The <span class="text-delta-green">less you learn</span> about each other during an operation the safer you all are. </span>
+      <span class="pl-6">  Ngươi <span class="text-delta-green">biết càng ít bao nhiêu</span> về danh tính thực của đồng đội, họ càng an toàn bấy nhiêu. </span>
       <br />
-      <span class="pl-6"> You can't betray what you don't know. </span>
+      <span class="pl-6"> Ngươi không thể phản bội thứ mà ngươi không biết. </span>
       <br />
-      <span class="pl-6"> This is doubly true when dealing with Friendlies. </span>
+      <span class="pl-6"> Điều này càng đúng khi nói về đồng bạn. </span>
     </li>
     <br />
     <li>
-      <span>4. <span class="text-delta-green">Always keep to your cover identity.</span></span>
+      <span>4. <span class="text-delta-green">Luôn giữ vững danh tính giả.</span></span>
       <br />
-      <span class="pl-6">  Your cover should always be someone with a <span class="text-delta-green">reason</span> for asking the questions you need answered. </span>
+      <span class="pl-6">  Danh tính giả của ngươi phải là danh tính có <span class="text-delta-green">lí do</span> để hỏi những câu hỏi cần hỏi. </span>
     </li>
     <br />
     <li>
-      <span>5. <span class="text-delta-green">Prepare a new cover after every Night at the Opera.</span></span>
+      <span>5. <span class="text-delta-green">Chuẩn bị sẵn danh tính giả mới ngay sau khi Dạ Hành xong.</span></span>
       <br />
-      <span class="pl-6">  Covers last only as long as they are <span class="text-delta-green">necessary</span>. </span>
+      <span class="pl-6">  Danh tính giả chỉ tồn tại lâu dài trong lúc còn <span class="text-delta-green">tác dụng</span>. </span>
       <br />
-      <span class="pl-6">  Even the best covers can't stand up to intense scrutiny. </span>
+      <span class="pl-6">  Danh tính dù khéo nhất cũng không chịu được soi xét kỹ càng. </span>
       <br />
-      <span class="pl-6">  Make them, use them, ditch them. </span>
+      <span class="pl-6">  Tạo ra chúng, sử dụng chúng, vứt bỏ chúng. </span>
     </li>
   </ol>
 </Typewriter>
