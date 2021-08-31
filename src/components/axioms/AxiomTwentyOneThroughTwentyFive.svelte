@@ -6,43 +6,43 @@
   <br />
   <ol>
     <li>
-      <span>21. <span class="text-delta-green">Everyone is always potentially under control by the opposition.</span></span>
+      <span>21. <span class="text-delta-green">Tất cả các cá nhân đều có nguy cơ bị kẻ địch kiểm soát.</span></span>
       <br />
-      <span class="pl-6">  Including your <span class="text-delta-green">teammates</span>. </span>
+      <span class="pl-6">  Bao gồm cả <span class="text-delta-green">đồng đội của ngươi</span>. </span>
     </li>
     <br />
     <li>
-      <span>22. <span class="text-delta-green">Don't harass the opposition.</span></span>
+      <span>22. <span class="text-delta-green">Đừng giày vò kẻ địch.</span></span>
       <br />
-      <span class="pl-6">  Save your energy, <span class="text-delta-green">limit your exposure</span>, strike when you are ready. </span>
+      <span class="pl-6">  Giữ lấy sức, <span class="text-delta-green">giới hạn tiếp xúc</span>, ra tay khi sẵn sàng. </span>
       <br />
-      <span class="pl-6">  Be utterly thorough. </span>
+      <span class="pl-6">  Vô cảm. </span>
       <br />
-      <span class="pl-6">  Be utterly ruthless. </span>
+      <span class="pl-6">  Vô tình. </span>
     </li>
     <br />
     <li>
-      <span>23. <span class="text-delta-green">Don't ever go into any place if you don't know how to get out.</span></span>
+      <span>23. <span class="text-delta-green">Đừng bao giờ tới nơi mà ngươi không biết lối thoát.</span></span>
       <br />
-      <span class="pl-6">  This includes buildings, neighborhoods, cities, states and countries. </span>
+      <span class="pl-6">  Bao gồm các tòa nhà, thành phố, quốc gia. </span>
       <br />
-      <span class="pl-6">  Always work backwards. </span>
+      <span class="pl-6">  Hãy tính toán trước. </span>
       <br />
-      <span class="pl-6">  Establish your line of <span class="text-delta-green">retreat first</span>. </span>
+      <span class="pl-6">  thiết kế ranh giới <span class="text-delta-green">rút lui trước</span>. </span>
     </li>
     <br />
     <li>
-      <span>24. <span class="text-delta-green"> Always take a different route getting out than you took going in.</span></span>
+      <span>24. <span class="text-delta-green"> Luôn ra bằng đường ra khác đường vào.</span></span>
     </li>
     <br />
     <li>
-      <span>25. <span class="text-delta-green">Think carefully before you steer law enforcement officers toward the opposition.</span></span>
+      <span>25. <span class="text-delta-green">Nghĩ kĩ trước khi dẫn lối cho chính phủ về phía kẻ địch.</span></span>
       <br />
-      <span class="pl-6">  Law enforcement officers are unprepared for the supernatural and <span class="text-delta-green">high casualties are likely</span>.  </span>
+      <span class="pl-6">  Công an và quân đội thường ít chuẩn bị cho hiện tượng siêu nhiên và <span class="text-delta-green">lượng tử vong cao là chắc chắn</span>.  </span>
       <br />
-      <span class="pl-6">  LEOs may not be prepared to prevent escapes or the loss of critical opposition assets. </span>
+      <span class="pl-6">  Họ thường không có năng lực giam giữ kẻ địch hay hiện vật. </span>
       <br />
-      <span class="pl-6">  They do, however, make an excellent distraction. </span>
+      <span class="pl-6">  Cơ mà, họ là, đánh lạc hướng tốt. </span>
     </li>
   </ol>
 </Typewriter>
