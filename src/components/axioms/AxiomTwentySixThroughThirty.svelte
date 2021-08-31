@@ -6,39 +6,39 @@
   <br />
   <ol>
     <li>
-      <span>26. <span class="text-delta-green">When embedded with an agency that is pursuing its legitimate remit, act with extreme caution.</span></span>
+      <span>26. <span class="text-delta-green">Khi được cài vào 1 cơ quan có nhiệm vụ chính thức, cẩn trọng tuyệt đối.</span></span>
       <br />
-      <span class="pl-6">  Remember that in this situation you are working without cover. </span>
+      <span class="pl-6">  Nhớ rằng trong trường hợp này, ngươi làm việc không có danh tính giả. </span>
       <br />
-      <span class="pl-6">  The host agency's goals are <span class="text-delta-green">not our goals</span>. </span>
+      <span class="pl-6">  Mục tiêu của cơ quan người được cài <span class="text-delta-green">khác chúng ta</span>. </span>
       <br />
-      <span class="pl-6">  You may have to undermine their mission in order to accomplish our mission. </span>
+      <span class="pl-6">  Ngươi cần hiểu rõ nhiệm vụ của họ để hoàn thành nhiệm vụ của riêng chúng ta. </span>
     </li>
     <br />
     <li>
-      <span>27. <span class="text-delta-green">Recognize when it's time to call A-cell for help, especially when embedded in a legitimate investigation.</span></span>
+      <span>27. <span class="text-delta-green">Hãy nhận ra khi nào cần gọi Trưởng Lão Hội giúp đỡ, đặc biệt là khi đang được cài vào cơ quan khác</span></span>
       <br />
-      <span class="pl-6">  Oversight and legitimate duties can prevent you from directly accomplishing your objectives. </span>
+      <span class="pl-6">  Công việc và vướng bận hàng ngày đôi khi có thể ngăn ngươi hoàn thành nhiệm vụ. </span>
       <br />
-      <span class="pl-6">  Other cells can <span class="text-delta-green">execute</span> the mission while you act as a conduit for intelligence. </span>
+      <span class="pl-6">  Các tổ các có thể <span class="text-delta-green">làm nốt</span> phần nhiệm vụ còn thiếu, trong khi ngươi đóng vai trò hỗ trợ. </span>
       <br />
-      <span class="pl-6">  Don't marry the mission. </span>
+      <span class="pl-6">  Đừng cá nhân hóa nhiệm vụ. </span>
     </li>
     <br />
     <li>
-      <span>28. <span class="text-delta-green">Always check the nearest Green Box and stock it with leftover supplies.</span></span>
+      <span>28. <span class="text-delta-green">Luôn kiểm tra Nhà kho gần nhất và cho đầy trang bị vào trong.</span></span>
       <br />
-      <span class="pl-6">  If there isn't a <span class="text-delta-green">Green Box</span> nearby, create one. </span>
+      <span class="pl-6">  Nếu như không có <span class="text-delta-green">Nhà kho</span> gần đó, hãy tự lập 1 cái. </span>
     </li>
     <br />
     <li>
-      <span>29. <span class="text-delta-green">Don't lose a tail until you arrange for someone to follow those following you.</span></span>
+      <span>29. <span class="text-delta-green">Đừng cắt đuôi trước khi ngươi giao cho ai đó theo đuôi kẻ theo đuôi ngươi.</span></span>
       <br />
-      <span class="pl-6">  Find out <span class="text-delta-green">where they go</span> and what they do. </span>
+      <span class="pl-6">  Tìm ra <span class="text-delta-green">chúng đi đâu</span> và chúng làm gì. </span>
     </li>
     <br />
     <li>
-      <span>30. <span class="text-delta-green">Never start shooting until you identify the opposition and confirm their numbers and capabilities. </span></span>
+      <span>30. <span class="text-delta-green">Đừng nổ súng trước khi ngươi có thể xác định được số lượng và đặc điểm kẻ địch. </span></span>
     </li>
   </ol>
 </Typewriter>
