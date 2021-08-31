@@ -20,7 +20,7 @@
       <br />
       <span class="pl-6">  Về tất cả mọi thứ. </span>
       <br />
-      <span class="pl-6">  <span class="text-delta-green">Always.</span> </span>
+      <span class="pl-6">  <span class="text-delta-green">Luôn luôn.</span> </span>
       <br />
       <span class="pl-6">  Và đảm bảo lời nói dối đó cụ thể và liên tục. </span>
     </li>
@@ -28,7 +28,7 @@
     <li>
       <span>8. <span class="text-delta-green">Ngoại nhân hỗ trợ được phép biết về nhiệm vụ hiện tại.</span></span>
       <br />
-      <span class="pl-6">  Họ không bao giờ được phép biết <span class="text-delta-green">truth</span> về Trấn Vũ Hội. </span>
+      <span class="pl-6">  Họ không bao giờ được phép biết <span class="text-delta-green">sự thật</span> về Trấn Vũ Hội. </span>
     </li>
     <br />
     <li>
