@@ -5,25 +5,25 @@
 
 <Typewriter cascade on:done={onFinish}>
   <br />
-  <p> Here are those <span class="text-delta-green">"Rogers' Rules of Ranging"</span> we talked about. </p>
+  <p> Đây là mấy cái <span class="text-delta-green">"Trấn Vũ Chỉ Lệnh"</span> mà vẫn hay nhắc tới. </p>
   <br />
-  <span> I have no idea whether they actually came from <span class="text-delta-green">Alphonse</span>.</span>
+  <span> tôi chịu không biết là có đúng là nó thật sự viết bởi <span class="text-delta-green">Trịnh Gia</span>.</span>
   <br />
-  <span> Writing all this down doesn't seem like the old man's style..</span>
+  <span> Viết ra mấy cái này không giống kiểu của ông già đó lắm..</span>
   <br />
-  <span> Maybe it started with him, but it's been making the rounds a long time.</span>
+  <span> Có lẽ là lão thấy cần thay đổi theo thời gian, và chúng ta góp thêm vào?</span>
   <br />
-  <p>Who knows how many of us have added to it over the years?</p>
+  <p>Ai mà biết được qua hàng trăm năm đã thêm bao nhiêu điều mới rồi?</p>
   <br />
-  <span> If you share it with any FNGs, be sure to tell them not to mistake it for intelligence tradecraft. </span>
+  <span> Đừng quá lo nếu như ngươi không thuộc hết. </span>
   <br />
-  <p> It's tradecraft for <span class="text-delta-green">Delta Green</span> agents on the ground.</p>
+  <p> Nó là một bộ chỉ lệnh cho thành viên <span class="text-delta-green">Trấn Vũ Hội</span> khi ra ngoài thực địa.</p>
   <br />
-  <span class="text-delta-green">It all comes back to the same old mission:</span>
+  <span class="text-delta-green">Nếu tóm gọn, thì nó vẫn là:</span>
   <ul>
-    <li> Find the threat </li>
-    <li> Stop the threat </li>
-    <li> Cover it up so it's like the threat never happened </li>
+    <li> Tìm kiếm mối nguy </li>
+    <li> Ngăn chặn mối nguy </li>
+    <li> Che đậy như thể mối nguy đó chưa bao giờ xảy ra </li>
   </ul>
   <br />
 </Typewriter>
