@@ -10,7 +10,7 @@
       <br />
       <span class="pl-6">  Ngươi không có "kim bài miễn tử". Ngươi không có quyền được giết người. </span>
       <br />
-      <span class="pl-6">  Đối với ngoại nhân ngoài Huyền Vũ Hội, <span class="text-delta-green">Ngươi là tội phạm, khủng bố và phản tặc.</span></span>
+      <span class="pl-6">  Đối với ngoại nhân ngoài Trấn Vũ Hội, <span class="text-delta-green">Ngươi là tội phạm, khủng bố và phản tặc.</span></span>
       <br />
       <span class="pl-6">  Nếu bị bắt, giữ im lặng, không nói gì và nhận hết những gì xảy đến.</span>
       <br />
