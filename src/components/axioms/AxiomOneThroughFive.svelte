@@ -6,7 +6,7 @@
   <br />
   <ol>
     <li>
-      <span>1.<span class="text-delta-green"> The first commandment is, Thou shall not get caught.</span></span>
+      <span>1.<span class="text-delta-green"> Chỉ lệnh số một là, không được để bị bắt.</span></span>
       <br />
       <span class="pl-6">  You do not have a "get out of jail free" card. You do not have a license to kill. </span>
       <br />
