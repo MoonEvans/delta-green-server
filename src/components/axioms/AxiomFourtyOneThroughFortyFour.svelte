@@ -9,31 +9,31 @@
   <br />
   <ol>
     <li>
-      <span>41. <span class="text-delta-green">Do not use any system of planar manipulation that could be taken for actual magic.</span></span>
+      <span>41. <span class="text-delta-green">Không được phép dùng Huyền, Đạo Thuật hay thứ giống phép thuật.</span></span>
       <br />
-      <span class="pl-6">  <span class="text-delta-green">You will become part of the problem.</span> </span>
+      <span class="pl-6">  <span class="text-delta-green">Ngươi sẽ không khác gì kẻ địch ngươi cần tiêu diệt.</span> </span>
       <br />
-      <span class="pl-6">  Concentrate on solving the problem before the supernatural becomes your only option. </span>
+      <span class="pl-6">  Tập trung giải quyết vấn đề bằng các phương pháp khác trước khi siêu nhiên là giải pháp cuối. </span>
       <br />
-      <span class="pl-6">  If you do end up using such systems, always tell A-Cell that you did. </span>
+      <span class="pl-6">  Nếu ngươi dùng giải pháp siêu nhiên, báo cáo với Trưởng Lão Hội. </span>
       <br />
-      <span class="pl-6">  The consequences are far preferable to having A-Cell find out later that you kept it a secret. </span>
+      <span class="pl-6">  Còn đỡ hơn là để họ phát hiện ra ngươi làm điều đó và giấu họ. </span>
     </li>
     <br />
     <li>
-      <span>42. <span class="text-delta-green">Never leave teammates behind where the authorities can find them.</span></span>
+      <span>42. <span class="text-delta-green">Không bao giờ bỏ lại đồng đội nơi chính phủ có thể tìm được.</span></span>
     </li>
     <br />
     <li>
-      <span>43. <span class="text-delta-green">Always report back to A-cell.</span></span>
+      <span>43. <span class="text-delta-green">Luôn luôn báo cáo cho Trưởng Lão Hội.</span></span>
       <br />
-      <span class="pl-6">  Even if that means leaving your team to <span class="text-delta-green">die</span>. </span>
+      <span class="pl-6">  Kể cả khi điều đó khiến cho đồng đội ngươi <span class="text-delta-green">tử vong</span>. </span>
     </li>
     <br />
     <li>
-      <span>44. <span class="text-delta-green">If you are successful, you won't have to explain your actions to A-Cell.</span></span>
+      <span>44. <span class="text-delta-green">Nếu ngươi thành công, không cần giải thích hành động với Trưởng Lão Hội.</span></span>
       <br />
-      <span class="pl-6">  A-Cell will be the final arbiter of <span class="text-delta-green">your success</span>. </span>
+      <span class="pl-6">  Trưởng Lão Hội là người phán quyết cuối cùng đối với <span class="text-delta-green">thành công của ngươi</span>. </span>
     </li>
   </ol>
   <br />
